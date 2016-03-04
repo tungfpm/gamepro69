@@ -1,0 +1,5 @@
+[Fri, 04 Mar 2016 17:47:03 +0700] [Array] [Run-time notices(8192): preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead] [FILE: /includes/class/request.class.php] [LINE: 388]
+[Fri, 04 Mar 2016 17:47:11 +0700] [Array] [Run-time notices(8192): preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead] [FILE: /includes/class/request.class.php] [LINE: 639]
+[Fri, 04 Mar 2016 17:47:11 +0700] [Array] [Run-time notices(8192): preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead] [FILE: /includes/class/request.class.php] [LINE: 641]
+[Fri, 04 Mar 2016 17:47:31 +0700] [Array] [Run-time notices(8192): mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead] [FILE: /includes/class/mysql.class.php] [LINE: 104]
+[Fri, 04 Mar 2016 17:49:12 +0700] [Array] [Run-time notices(8192): preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead] [FILE: /includes/class/Diagnostic.class.php] [LINE: 466]
